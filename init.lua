@@ -1,1 +1,1 @@
-require("azalea.lazy")
+require("config.lazy")
